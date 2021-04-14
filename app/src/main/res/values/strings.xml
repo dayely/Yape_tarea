@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Yape_tarea</string>
+    <string name="idtitulo">MUESTRA TU CODIGO QR</string>
+    <string name="idtitulo2">PARA RECIBIR PAGOS</string>
+    <string name="idtitulo3">Hola Yapero</string>
+    <string name="idtitulo4">Ingresa tu clave</string>
+    <string name="idboton1">1</string>
+    <string name="idboton2">2</string>
+    <string name="idboton3">3</string>
+    <string name="idboton5">5</string>
+    <string name="idboton4">4</string>
+    <string name="idboton6">6</string>
+    <string name="idboton7">7</string>
+    <string name="idboton8">8</string>
+    <string name="idboton9">9</string>
+    <string name="idboton10">0</string>
+</resources>
